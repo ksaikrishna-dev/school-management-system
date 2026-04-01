@@ -1,3 +1,12 @@
+# Student Management System app
+
+For this project, I chose the Antigravity IDE and used agents are Gemini 3.1 Pro(High) & Claude Opus 4.6(Thinking). 
+The technologies included (React + Vite), along with Firebase for the database and hosting.
+
+![preview img](/preview-01.png)
+![preview img](/preview-02.png)
+![preview img](/preview-03.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
